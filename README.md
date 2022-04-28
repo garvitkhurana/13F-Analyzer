@@ -1,2 +1,2 @@
 # 13F-Analyzer
-SEC Form 13F Analyzer - 13F scraper(requests, beautifulsoup) + ticker matching using API(openfigi) + ohlc_market_data
+SEC Form 13F Analyzer - 13F scraper(requests, urllib) + CUSIP Mathcing(openfigi) + market_data_addition(yahoo finance)
